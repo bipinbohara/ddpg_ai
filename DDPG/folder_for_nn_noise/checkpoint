@@ -1,2 +1,2 @@
-model_checkpoint_path: "EH_save_net_snr=-100epoch=1999_P2P.ckpt"
-all_model_checkpoint_paths: "EH_save_net_snr=-100epoch=1999_P2P.ckpt"
+model_checkpoint_path: "EH_save_net_snr=202epoch=1999_P2P.ckpt"
+all_model_checkpoint_paths: "EH_save_net_snr=202epoch=1999_P2P.ckpt"
